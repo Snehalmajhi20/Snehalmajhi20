@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Snehal Majhi</h1>
-<h3 align="center">A passionate software developer from Bhubaneswar, India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif" width="400">
 
 
