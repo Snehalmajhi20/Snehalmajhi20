@@ -26,10 +26,7 @@
 ```yaml
 Name        : Snehal Majhi
 Role        : Java Full-Stack Developer
-Experience  : 2.6 Years (Production)
 Location    : Mumbai, India 🇮🇳
-Company     : Tech Neon Solution Pvt. Ltd.
-Domain      : Healthcare IT
  
 Core Stack:
   Backend   : Java 11/17 · Spring Boot · Microservices
