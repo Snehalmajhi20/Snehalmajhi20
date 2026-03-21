@@ -54,23 +54,6 @@ Contact     : snehalmajhi20@gmail.com
  
 ---
  
-## 🏆 Achievements
- 
-<div align="center">
- 
-| 🚀 | Achievement | Impact |
-|:---:|---|---|
-| ⚡ | MySQL Query Optimization | **30% faster API response** on live production |
-| 🧩 | Microservices Migration | Monolith → **8 independent services** · +40% deploy frequency |
-| 🔒 | JWT + RBAC Security | **Zero unauthorized access** incidents in production |
-| 🧪 | Test Coverage | **80% code coverage** · -25% post-deploy defects |
-| 🔧 | CI/CD Automation | Jenkins pipeline · **60% less manual effort** |
-| 📡 | API Reliability | **10,000+ daily requests** · 99.9% uptime |
- 
-</div>
- 
----
- 
 ## 🛠️ Tech Stack
  
 <div align="center">
@@ -113,30 +96,24 @@ Contact     : snehalmajhi20@gmail.com
 </div>
  
 ---
- 
-## 📊 GitHub Stats
+
+## 🏆 Achievements
  
 <div align="center">
  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=snehal-majhi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=snehal-majhi&theme=tokyonight&hide_border=true"/>
- 
-<br/>
- 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehal-majhi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+| 🚀 | Achievement | Impact |
+|:---:|---|---|
+| ⚡ | MySQL Query Optimization | **30% faster API response** on live production |
+| 🧩 | Microservices Migration | Monolith → **8 independent services** · +40% deploy frequency |
+| 🔒 | JWT + RBAC Security | **Zero unauthorized access** incidents in production |
+| 🧪 | Test Coverage | **80% code coverage** · -25% post-deploy defects |
+| 🔧 | CI/CD Automation | Jenkins pipeline · **60% less manual effort** |
+| 📡 | API Reliability | **10,000+ daily requests** · 99.9% uptime |
  
 </div>
  
 ---
- 
-## 🏅 GitHub Trophies
- 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=snehal-majhi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-</div>
- 
----
- 
+  
 ## 📬 Let's Connect
  
 <div align="center">
