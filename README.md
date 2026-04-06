@@ -40,10 +40,6 @@ Core Stack:
 Superpower  : Turning complex distributed systems
               into clean, maintainable microservices
               
-Currently   : ☁️ AWS Cloud Practitioner (2026)
-              🏗️ System Design Deep Dive
-              
-OpenToWork  : true ✅  — Immediate Joiner
 Contact     : snehalmajhi20@gmail.com
 ```
  
@@ -123,8 +119,6 @@ Contact     : snehalmajhi20@gmail.com
 [![Email](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snehalmajhi20@gmail.com)
  
 **Open to Java Backend · Full-Stack · Microservices roles**
- 
-*Mumbai · PAN India · Remote · Hybrid · Immediate Joiner*
  
 <br/>
  
