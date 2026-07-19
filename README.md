@@ -26,7 +26,7 @@
 ```yaml
 Name        : Snehal Majhi
 Role        : Java Full-Stack Developer
-Location    : Mumbai, India 🇮🇳
+Location    : Bengaluru, India 🇮🇳
  
 Core Stack:
   Backend   : Java 11/17 · Spring Boot · Microservices
